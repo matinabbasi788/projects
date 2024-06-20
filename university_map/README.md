@@ -1,7 +1,7 @@
 ### This was a university project, wich is a route finder written in Python.
 
 
-```!!! I received 5,000,000 Iranina Rials, equivalent to 10 dollars, for this program.```
+```I received 5,000,000 Iranina Rials, equivalent to 10 dollars, for this program.```
 
 It took me about a week to complete.
 

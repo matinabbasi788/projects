@@ -1,7 +1,7 @@
 ### This was a university project, which is a music player written in Python.
 
 
-```!!! I received 5,000,000 Iranina Rials, equivalent to 10 dollars, for this program.```
+```I received 5,000,000 Iranina Rials, equivalent to 10 dollars, for this program.```
 
 It took me about a week to complete.
 

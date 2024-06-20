@@ -2,7 +2,7 @@
 
 It includes two applications: CLI and GUI.
 
-!!! I received 35,000,000 Iranina Rials, equivalent to 70 dollars, for this program.
+```I received 35,000,000 Iranina Rials, equivalent to 70 dollars, for this program.```
 
 It took me about a month to complete.
 

@@ -3,9 +3,9 @@
 
 List of projects
 ***
-* [emailchecker 70$](https://github.com/matinabbasi/projects/tree/main/emailchecker/)
-* [musicplayer 10$](https://github.com/matinabbasi/projects/tree/main/musicplayer/)
-* [university_map 10$](https://github.com/matinabbasi/projects/tree/main/university_map/)
+* [emailchecker 70$](https://github.com/matinabbasi788/projects/tree/main/emailchecker/)
+* [musicplayer 10$](https://github.com/matinabbasi788/projects/tree/main/musicplayer/)
+* [university_map 10$](https://github.com/matinabbasi788/projects/tree/main/university_map/)
 
 
 
